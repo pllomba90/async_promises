@@ -1,0 +1,1 @@
+This is just a basic set of exercises with asynchronus Javascript and working with promises and promise chaining.
